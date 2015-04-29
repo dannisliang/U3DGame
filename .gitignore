@@ -1,7 +1,3 @@
 PhoneGame/Library
-PhoneGame/Assembly-CSharp-vs.csproj
-PhoneGame/Assembly-CSharp.csproj
-PhoneGame/PhoneGame-csharp.sln
-PhoneGame/PhoneGame.sln
-PhoneGame/PhoneGame.userprefs
 PhoneGame/obj
+PhoneGame/Temp
